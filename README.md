@@ -67,14 +67,12 @@ PostgreSQL • REST/RPC APIs • GitHub Actions • Redis • Playwright
 
 ## 📍 Based In
 
-🦘 **Sydney, Australia** — often found surfing, playing sports, or planning a nature escape 🏄‍♂️🌿
+🦘 **Sydney, Australia** — often found surfing, playing sports, or planning a camping trip 🏄‍♂️🏕️
 
 ## 📫 Let's Connect
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/pjserol/?locale=en_US)
 - 🧠 Blog / Notes (coming soon?)
-
-- 🐦 [Twitter](https://twitter.com/pjserol)
 
 ---
 
