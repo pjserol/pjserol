@@ -22,7 +22,7 @@ PostgreSQL • REST/RPC APIs • GitHub Actions • VS Code • macOS (Zsh) • 
 
 ## 📫 Let's Connect
 
-- 💼 [LinkedIn](https://www.linkedin.com/pjserol)
+- 💼 [LinkedIn](https://www.linkedin.com/in/pjserol/?locale=en_US)
 - 🧠 Blog / Notes (coming soon?)
 
 ---
